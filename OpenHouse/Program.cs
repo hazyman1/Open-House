@@ -13,7 +13,7 @@ namespace OpenHouse
             }
 
         }
-        static void Main(string[] args)f
+        static void Main(string[] args)
         {
             TypeWrite("Welcome to the open House! ", 40);
             TypeWrite("Would you like to come inside? ", 40);
